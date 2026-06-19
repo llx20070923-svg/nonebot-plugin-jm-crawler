@@ -25,3 +25,8 @@
 安装核心依赖库：
 ```bash
 pip install nonebot2 nonebot-adapter-onebot jmcomic img2pdf
+
+## 🙏 鸣谢 (Acknowledgments)
+
+本项目核心的底层抓取与 API 交互逻辑强依赖于优秀的开源项目 [JMComic-Crawler-Python](https://github.com/hect0x7/JMComic-Crawler-Python)。
+特此向原作者 [hect0x7](https://github.com/hect0x7) 及所有代码贡献者表示诚挚的感谢！
