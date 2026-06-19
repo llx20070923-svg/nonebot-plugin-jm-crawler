@@ -1,0 +1,4 @@
+nonebot2>=2.0.0
+nonebot-adapter-onebot>=2.0.0
+jmcomic>=2.0.0
+img2pdf

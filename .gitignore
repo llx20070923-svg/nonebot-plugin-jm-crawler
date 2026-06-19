@@ -1,0 +1,9 @@
+# 忽略下载目录和缓存
+downloads/
+*_tmp/
+__pycache__/
+*.pyc
+
+# 忽略可能不小心混入的私密配置文件
+.env
+option.yml
